@@ -9,5 +9,5 @@ A revolutionary way for students to interact with their educational material. Th
 
 Credit to team members:  
 Noah Pursell: https://github.com/noahapursell  
-Robert Miller: https://github.com/MarkC11235
+Mark Castle: https://github.com/MarkC11235  
 Kristiana Karshelieva: https://github.com/kris-krsh02  
